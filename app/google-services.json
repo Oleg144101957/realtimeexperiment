@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268321903021",
+    "project_id": "realtimeexperiment-67174",
+    "storage_bucket": "realtimeexperiment-67174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268321903021:android:aead6c05ccea373a58d124",
+        "android_client_info": {
+          "package_name": "com.vishnevskiypro.realtimeexperiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268321903021-sha03t1lle83dkm9nubjseaso1a203a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfpeRd-E1NLeBOg8sLyenBOvV7GDaTol8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268321903021-sha03t1lle83dkm9nubjseaso1a203a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
